@@ -4,6 +4,7 @@ metadata:
   name: mrdevops
   labels:
     app: mrdevops
+    ok: ook
 spec:
   ports:
     - port: 8080                               
